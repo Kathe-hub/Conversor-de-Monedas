@@ -1,4 +1,4 @@
-# Conversor-de-Monedas
+# Conversor de Monedas
 ## Divisas pesos chilenos, dolares y euros
 
 Creación de sitio web orientado a convertir monedas desde pesos chilenos a dolares y euros. Incluye un gráfico que muestra las variaciones de ambas divisas los últimos 10 días.
